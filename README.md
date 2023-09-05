@@ -15,7 +15,7 @@
  ### Algorithms
   - [Об алгоритмах под копотом](https://cyberleninka.ru/article/n/primenenie-grafovyh-subd-v-zadachahanaliza-dannyh/viewer)
 
-  ## Как запустить самому и потыкаться самому
+  ## Как запустить и потыкаться самому
    - [Онлайн](https://neo4j.com/sandbox/)
 
 ## Neo4j/Cypher official tutorials
