@@ -20,5 +20,7 @@
 
 ## Neo4j/Cypher official tutorials
 - [Neo4j](https://graphacademy.neo4j.com/)
+
+## Cheatsheat
 - [Cheatsheet](https://mpolinowski.github.io/docs/Development/Graphs/2020-05-03--neo4j-cheat-sheet/2020-05-03)
-- [Интересный датасет для исследования потенциально заражённых ковидом](https://mpolinowski.github.io/docs/Development/Graphs/2020-05-04--neo4j-corona-tracing/2020-05-04)
+- [Интересный датасет с примерами для исследования потенциально заражённых ковидом](https://mpolinowski.github.io/docs/Development/Graphs/2020-05-04--neo4j-corona-tracing/2020-05-04)
